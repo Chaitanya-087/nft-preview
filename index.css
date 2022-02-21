@@ -66,7 +66,7 @@ h2:hover,span:hover{
     gap:15px;
 }
 .avatarimg{
-    width: 40px;
+    width: 45px;
     border:2px solid var(--c-white);
     border-radius:50px;
 }
